@@ -6,4 +6,6 @@ Distance of closest point to decision surface is called Margin.
 
 So our main aim is to find the seperating surface which has highest margin width.
 
-![]("https://github.com/Ruchikamodgil/Support-Vector-Machine-Implementation/blob/main/img.png")
+<p align="center">
+  <img src="https://github.com/Ruchikamodgil/Support-Vector-Machine-Implementation/blob/main/img.png" />
+</p>
