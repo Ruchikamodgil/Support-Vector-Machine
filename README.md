@@ -6,4 +6,4 @@ Distance of closest point to decision surface is called Margin.
 
 So our main aim is to find the seperating surface which has highest margin width.
 
-![alt text]()
+![](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
